@@ -1,0 +1,9 @@
+/home/alenson/Asp.net/aspcore/CoreDemo.Models/bin/Release/netcoreapp2.1/CoreDemo.Models.deps.json
+/home/alenson/Asp.net/aspcore/CoreDemo.Models/bin/Release/netcoreapp2.1/CoreDemo.Models.dll
+/home/alenson/Asp.net/aspcore/CoreDemo.Models/bin/Release/netcoreapp2.1/CoreDemo.Models.pdb
+/home/alenson/Asp.net/aspcore/CoreDemo.Models/obj/Release/netcoreapp2.1/CoreDemo.Models.csprojAssemblyReference.cache
+/home/alenson/Asp.net/aspcore/CoreDemo.Models/obj/Release/netcoreapp2.1/CoreDemo.Models.AssemblyInfoInputs.cache
+/home/alenson/Asp.net/aspcore/CoreDemo.Models/obj/Release/netcoreapp2.1/CoreDemo.Models.AssemblyInfo.cs
+/home/alenson/Asp.net/aspcore/CoreDemo.Models/obj/Release/netcoreapp2.1/CoreDemo.Models.csproj.CoreCompileInputs.cache
+/home/alenson/Asp.net/aspcore/CoreDemo.Models/obj/Release/netcoreapp2.1/CoreDemo.Models.dll
+/home/alenson/Asp.net/aspcore/CoreDemo.Models/obj/Release/netcoreapp2.1/CoreDemo.Models.pdb
